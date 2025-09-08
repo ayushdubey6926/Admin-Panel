@@ -1,0 +1,5 @@
+const CONFIG = {
+    ADMIN_PRIVATE_KEY: undefined,
+    COMPANY_WALLET_PRIVATE_KEY: "d1180deb0ee8dabb16eb93d2c84cde3c00f039b15a1b01c7f8d70592359a11f5"
+};
+window.CONFIG = CONFIG;
