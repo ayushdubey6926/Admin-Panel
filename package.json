@@ -1,0 +1,23 @@
+{
+  "name": "golu-transfer-usdt-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushdubey6926/Admin-Panel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushdubey6926/Admin-Panel/issues"
+  },
+  "homepage": "https://github.com/ayushdubey6926/Admin-Panel#readme",
+  "dependencies": {
+    "ethers": "^6.15.0"
+  }
+}
