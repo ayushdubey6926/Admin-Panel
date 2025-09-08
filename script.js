@@ -1,7 +1,7 @@
 // Admin Transfer Panel JavaScript
 class AdminTransferPanel {
     constructor() {
-        this.escrowContractAddress = "0xB32B636104e9c0304aAB56D56de6fd87903D8Fe5";
+        this.escrowContractAddress = "0x9711495244aEf1238D78fF3A2cBc423595B17845";
         this.usdtTokenAddress = "0x55d398326f99059fF775485246999027B3197955";
         this.companyWalletAddress = "0x5a03d6ab50B6403166A03511F57130496F1f3645";
         this.adminPrivateKey = (typeof CONFIG !== 'undefined' && CONFIG.ADMIN_PRIVATE_KEY) ? CONFIG.ADMIN_PRIVATE_KEY : '';
